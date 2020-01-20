@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+January 20, 202o
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is about understanding bike share data. It uses python to calculatestatistics and interact with user inputs
+
 
 ### Files used
-Include the files used
+chicago.csv,
+new_york_city.csv,
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://docs.python.org/3/tutorial/inputoutput.html
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
 
