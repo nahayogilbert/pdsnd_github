@@ -175,7 +175,8 @@ def user_stats(df, city):
         print('\nEarliest birth is: {}\n'.format(earliest_birth))
         print('Most recent birth is: {}\n'.format(most_recent_birth))
         print('Most common birth is: {}\n'.format(most_common_birth) )
-        
+      
+        # TO DO: Inform user that there are no gender and birth year data for washington
     elif city =='washington.csv':
         print('\nNo gender and birth year data available')
 
